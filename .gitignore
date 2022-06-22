@@ -12,7 +12,6 @@ stamp-h1
 compton
 *.o
 *.d
-build/
 compile_commands.json
 build.ninja
 
